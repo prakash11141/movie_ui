@@ -6,6 +6,20 @@
 5.HTML forms
 6.Project(form submit)
 
+# Advance
+
+1. APIs
+ a.Axios
+ b.Fetch API
+ c.Storage(Local storage/session storage/cookies)
+ 
+ 2. Bootstrap(Css Framework)
+ 3.SASS
+ 4.12 pages(Login,Register,Email Verification,HomePage...)
+
+ #React
+ 0.
+
 
 
 
