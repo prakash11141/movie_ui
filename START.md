@@ -1,37 +1,41 @@
-# Pre-requisites
-1.HTML
-2.CSS
-3.JS(Array/ Object)=>Es6 Forms
-4.Events
-5.HTML forms
-6.Project(form submit)
+1. Pre-requisites
 
-# Advance
+HTML
+CSS
+JS (Array / Objects) => ES6 Forms
+Events
+HTML Forms
+Project (Form Submit)
 
-1. APIs
- a.Axios
- b.Fetch API
- c.Storage(Local storage/session storage/cookies)
- 
- 2. Bootstrap(Css Framework)
- 3.SASS
- 4.12 pages(Login,Register,Email Verification,HomePage...)
+2. Advanced
 
- #React
- 0.
+# APIs
 
+a. Axios b. Fetch API c. Storage (Local storage / session storage / cookies)
+Bootstrap (CSS Framework)
+SASS
+12 pages (Login, Register, Email Verification, HomePage ...)
 
+3. React
 
+Functions (ES6)
+React Setup (Vite)
+React Components
+Props
+Conditional Rendering (Ternary Operator)
+Immutable JS (map, reduce, filter, split, find, ...)
+Questions (Interview)
 
+4. Advanced Concept
 
-Advance Concept
+Hooks a. useState b. useEffect c. useRef f. useContext
 
-1. Hooks
+Optimization techniques a. useCallback b. useMemo
 
-a.useState
-b.useEffect
-c.useRef
-d.useContext
+2\* Interview Questions (Dynamic Dropdown/ Pagination/ Search )
 
-2.Optimization techniques
-a.
+Redux Toolkit
+
+# Project
+
+MovieMate
